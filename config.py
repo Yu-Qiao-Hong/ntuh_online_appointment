@@ -1,0 +1,15 @@
+# 身分資料
+ID = 'A125761774'
+BIRTH_YEAR = '74'  # 民國年
+BIRTH_MONTH = '12'
+BIRTH_DAY = '17'
+
+# 預約資料
+DOCTOR_NAME = '朱家緯'
+HOSP_CODE = 'T0'
+APPOINTMENT_BEGIN = '2023/06/2'  # YYYY/MM/DD
+APPOINTMENT_END = '2023/06/02'  # YYYY/MM/DD
+
+# 環境設定
+CHROME_DRIVER_PATH = 'chromedriver.exe'  # 自行設定路徑
+RETRY_DELAY_SEC = 10
