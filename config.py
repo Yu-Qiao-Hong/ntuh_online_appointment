@@ -1,5 +1,5 @@
 # 身分資料
-ID = 'A125761774'
+ID = ''
 BIRTH_YEAR = '74'  # 民國年
 BIRTH_MONTH = '12'
 BIRTH_DAY = '17'
